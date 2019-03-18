@@ -16,7 +16,7 @@ function positionPing(position){
 
 function draw(){
     background(255);
-    print("distance is: ");
+    print("My distance is: ");
     mdistance = distance*1000;
     print(mdistance);
     textSize(32);
